@@ -1,0 +1,22 @@
+{
+  "name": "2 first feathersJs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@feathersjs/feathers": "^5.0.3",
+    "@feathersjs/koa": "^5.0.3",
+    "@feathersjs/socketio": "^5.0.3"
+  }
+}
